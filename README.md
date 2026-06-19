@@ -15,4 +15,4 @@ A small Go project for learning how TCP and HTTP servers work under the hood.
 Run:
 
 ```bash
-go run ./cmd/tcp
+
